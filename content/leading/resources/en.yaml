@@ -1,0 +1,31 @@
+sectionTitle: Featured resources
+sectionTitleHighlight: Featured
+articles:
+  - image: /images/leading/article1.png
+    type: Report
+    title: 'The Product Benchmark Report: How Top Teams Win and Grow'
+    description: World class development and built for performance, Slate will deliver to the highest standard. World class development and built for performance, Slate will deliver to the highest standard.
+    ctaText: Get the report
+    link: '#'
+  - image: /images/leading/article2.png
+    type: Report
+    title: Ultimate guide to SEO for beginners
+    description: World class development and built for performance, Slate will deliver to the highest standard.
+    ctaText: ''
+    link: '#'
+  - image: /images/leading/article3.png
+    type: Report
+    title: Beginner’s guide to Prop firm execution
+    description: World class development and built for performance, Slate will deliver to the highest standard.
+    ctaText: ''
+    link: '#'
+  - image: /images/leading/article4.png
+    type: Report
+    title: Automating your prop firm services
+    description: Built for performance and world class development, TradeBrix delivers to the highest standard.
+    ctaText: ''
+    link: '#'
+bannerTitle: Talk to us about your current setup
+bannerSubtitle: Let’s see how TradeBrix CRM can replace stitched-together tools, remove friction, and help you scale.
+bannerButtonText: Contact Us
+bannerButtonLink: /contactus

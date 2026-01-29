@@ -1,0 +1,21 @@
+title: Frequently Asked Questions
+highlightedPart: Questions
+items:
+  - question: What type of firms is TradeBrix built for?
+    answer: TradeBrix is built for modern prop trading firms that require stable, scalable operational infrastructure. The platform is designed for teams that prioritize reliability, operational clarity, and long-term scalability.
+  - question: Is TradeBrix a CRM or a full operational platform?
+    answer: TradeBrix is not a standalone CRM. It is a unified operational platform that brings CRM, wallet management, risk workflows, reporting, and trader lifecycle management into a single system. Rather than adding another tool to the stack, TradeBrix replaces fragmented systems with one coherent backend.
+  - question: Can TradeBrix support firms operating at scale?
+    answer: Yes. TradeBrix is designed to remain stable under growth — whether that growth is in user volume, account activity, or operational complexity.
+  - question: Does TradeBrix support multiple trading platforms?
+    answer: TradeBrix is platform-agnostic and designed to integrate with leading trading platforms and execution environments. This allows firms to maintain their preferred trading setup while centralizing operations, reporting, and workflows within TradeBrix.
+  - question: How does TradeBrix handle customization and branding?
+    answer: TradeBrix supports full Trader Area and dashboards branding and configurable workflows to align with each firm's operational model. Where standard configuration is not sufficient, custom development can be delivered on top of the core platform without compromising system stability.
+  - question: What makes TradeBrix different from other prop firm software?
+    answer: TradeBrix is built as infrastructure — not a feature-driven interface. Instead of focusing on surface-level tooling, the platform prioritizes architecture, predictability, and operational cohesion. This reduces noise, simplifies workflows, and allows teams to focus on execution rather than system management.
+  - question: Does TradeBrix take revenue share or commissions?
+    answer: No. TradeBrix operates on a clear licensing model. Firms retain full ownership of their data, operations, and revenue streams, with predictable platform costs and no revenue share or hidden fees.
+  - question: What kind of onboarding and support does TradeBrix provide?
+    answer: TradeBrix provides structured onboarding, technical integration support, and ongoing assistance backed by detailed documentation. Support is focused not only on platform usage, but on ensuring firms operate efficiently as they scale, with guidance rooted in real operational data.
+  - question: Is TradeBrix suitable for firms with evolving operational needs?
+    answer: Yes. TradeBrix is designed as a long-term foundation rather than a fixed solution. As firms grow and requirements change, the platform evolves through configuration, extensions, and ongoing product development — without forcing disruptive system migrations.

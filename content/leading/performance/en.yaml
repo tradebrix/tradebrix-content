@@ -1,0 +1,16 @@
+title: Proof is in the Performance
+highlightedPart: Performance
+subtitle: See how prop firms grow faster, operate leaner, and deliver better trader experiences with TradeBrix.
+cards:
+  - image: /images/leading/performance-1.png
+    text: Cut Operational Costs by 32%
+    backgroundGradient: 'linear-gradient(180deg, rgba(8, 27, 64, 0.00) 0%, #235FD9 100%)'
+  - image: /images/leading/performance-2.png
+    text: Increased Challenge Conversions by 27%
+    backgroundGradient: 'linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #235FD9 100%)'
+  - image: /images/leading/performance-3.png
+    text: Boosted Trader Retention by 41%
+    backgroundGradient: 'linear-gradient(180deg, rgba(8, 27, 64, 0.00) 0%, #235FD9 100%)'
+  - image: /images/leading/performance-4.jpg
+    text: Reduced Compliance Time-to-Approve by 55%
+    backgroundGradient: 'linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #235FD9 100%)'
