@@ -1,0 +1,13 @@
+links:
+  - label: Home
+    href: /
+  - label: About us
+    href: /aboutus
+  - label: Blog
+    href: /blog
+  - label: Contact Us
+    href: /contactus
+button1Text: Login
+button1Link: /login
+button2Text: Contact Sales
+button2Link: /contact-sales
