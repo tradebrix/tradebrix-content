@@ -1,0 +1,17 @@
+sectionTitle: Featured resources
+sectionTitleHighlight: Featured
+items:
+  - article: automation-maturity-report
+    isBig: true
+  - article: customer-spotlight-long-term-growth
+    isBig: false
+  - article: reliability-benchmarks-trading-platforms
+    isBig: false
+  - article: scaling-engineering-teams-report
+    isBig: false
+bannerTitle: Talk to us about your current setup
+bannerSubtitle: >-
+  Let’s see how TradeBrix CRM can replace stitched-together tools, remove
+  friction, and help you scale.
+bannerButtonText: Book a Demo
+bannerButtonLink: /contactus
