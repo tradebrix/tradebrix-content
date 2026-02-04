@@ -1,13 +1,19 @@
-sectionTitle: Understand what your traders want--     and give it to them
+sectionTitle: Understand what your traders want—and give it to them
 sectionTitleHighlight: your traders
-sectionSubtitle: TradeBrix gives prop firms the tools to shape trader experience, operations, and engagement from one unified platform.
+sectionSubtitle: >-
+  TradeBrix gives prop firms the tools to shape trader experience, operations,
+  and engagement from one unified platform.
 rows:
   - title: A better home for traders
     titleHighlight: better
-    subtitle: Improve sales and trader retention with a cleaner, clearer trader experience designed to reduce friction at every step.
+    subtitle: >-
+      Improve sales and trader retention with a cleaner, clearer trader
+      experience designed to reduce friction at every step.
     rowImage: /images/leading/traders-1.png
     containerTitle: Clear Account Overview
-    containerSubtitle: A simple dashboard that lets traders understand their status, rules, and next steps instantly.
+    containerSubtitle: >-
+      A simple dashboard that lets traders understand their status, rules, and
+      next steps instantly.
     containerIcon: /icons/icon-laptop.svg
     label1Title: Frictionless Checkout
     label1Icon: /icons/icon-loading.svg
@@ -15,10 +21,14 @@ rows:
     label2Icon: /icons/icon-wallet.svg
   - title: Operational tools for growing firms
     titleHighlight: growing firms
-    subtitle: Run day-to-day operations with practical tools built for fast-moving prop firms.
+    subtitle: >-
+      Run day-to-day operations with practical tools built for fast-moving prop
+      firms.
     rowImage: /images/leading/traders-2.png
     containerTitle: Ticketing System
-    containerSubtitle: A built-in support hub with automated routing, prioritization, and tracking.
+    containerSubtitle: >-
+      A built-in support hub with automated routing, prioritization, and
+      tracking.
     containerIcon: /icons/icon-ticket.svg
     label1Title: Real-Time Breach Monitoring
     label1Icon: /icons/icon-eye.svg
@@ -26,10 +36,14 @@ rows:
     label2Icon: /icons/icon-thunder.svg
   - title: Community building
     titleHighlight: Community
-    subtitle: Give traders a reason to stay active, engaged, and connected beyond their first challenge.
+    subtitle: >-
+      Give traders a reason to stay active, engaged, and connected beyond their
+      first challenge.
     rowImage: /images/leading/traders-3.png
     containerTitle: Affiliate Dashboard & Tools
-    containerSubtitle: Real-time tracking, clear performance insights, and transparent commissions.
+    containerSubtitle: >-
+      Real-time tracking, clear performance insights, and transparent
+      commissions.
     containerIcon: /icons/icon-board.svg
     label1Title: Leaderboards
     label1Icon: /icons/icon-leadboard.svg
