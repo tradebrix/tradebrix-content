@@ -16,8 +16,12 @@ rows:
       next steps instantly.
     containerIcon: /icons/icon-laptop.svg
     label1Title: Frictionless Checkout
+    label1Subtitle: >-
+      Smooth signup and payment flows that reduce drop-off and get traders
+      funded faster.
     label1Icon: /icons/icon-loading.svg
     label2Title: Unified Wallet Experience
+    label2Subtitle: One place for balances, funding, payouts, and transaction history.
     label2Icon: /icons/icon-wallet.svg
   - title: Operational tools for growing firms
     titleHighlight: growing firms
@@ -31,8 +35,12 @@ rows:
       tracking.
     containerIcon: /icons/icon-ticket.svg
     label1Title: Real-Time Breach Monitoring
+    label1Subtitle: Instant visibility into breaches and account risks as they occur.
     label1Icon: /icons/icon-eye.svg
     label2Title: Quick Account Setup
+    label2Subtitle: >-
+      Configure products, pricing, rules, and challenge structures without
+      developers.
     label2Icon: /icons/icon-thunder.svg
   - title: Community building
     titleHighlight: Community
@@ -46,6 +54,10 @@ rows:
       commissions.
     containerIcon: /icons/icon-board.svg
     label1Title: Leaderboards
+    label1Subtitle: >-
+      Ranked performance boards that encourage healthy competition and
+      participation.
     label1Icon: /icons/icon-leadboard.svg
     label2Title: Trading Competitions
+    label2Subtitle: Automated competitions designed to boost engagement and retention.
     label2Icon: /icons/icon-flag.svg
