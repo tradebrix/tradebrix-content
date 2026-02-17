@@ -1,15 +1,11 @@
 items:
   - value: 20+
-    isHighlighted: false
     title: Partnered prop firms
   - value: 70+
-    isHighlighted: true
     title: Payment channels supported
   - value: 50K+
-    isHighlighted: false
     title: Challenges processed
   - value: $15M+
-    isHighlighted: false
     title: Revenue generated across partners
 sectionTitle: Your growth advantage
 sectionTitleHighlight: growth
