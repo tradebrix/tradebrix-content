@@ -9,7 +9,12 @@ rows:
     subtitle: >-
       Improve sales and trader retention with a cleaner, clearer trader
       experience designed to reduce friction at every step.
-    rowImage: /images/leading/traders-1.png
+    containerImage: /images/leading/traders-1.png
+    containerImageAlign: left
+    label1Image: /images/leading/traders-2.png
+    label1ImageAlign: left
+    label2Image: /images/leading/traders-3.png
+    label2ImageAlign: right
     containerTitle: Clear Account Overview
     containerSubtitle: >-
       A simple dashboard that lets traders understand their status, rules, and
@@ -28,7 +33,12 @@ rows:
     subtitle: >-
       Run day-to-day operations with practical tools built for fast-moving prop
       firms.
-    rowImage: /images/leading/traders-2.png
+    containerImage: /images/leading/traders-4.png
+    containerImageAlign: right
+    label1Image: /images/leading/traders-5.png
+    label1ImageAlign: right
+    label2Image: /images/leading/traders-6.png
+    label2ImageAlign: right
     containerTitle: Ticketing System
     containerSubtitle: >-
       A built-in support hub with automated routing, prioritization, and
@@ -47,7 +57,12 @@ rows:
     subtitle: >-
       Give traders a reason to stay active, engaged, and connected beyond their
       first challenge.
-    rowImage: /images/leading/traders-3.png
+    containerImage: /images/leading/traders-7.png
+    containerImageAlign: right
+    label1Image: /images/leading/traders-8.png
+    label1ImageAlign: right
+    label2Image: /images/leading/traders-9.png
+    label2ImageAlign: right
     containerTitle: Affiliate Dashboard & Tools
     containerSubtitle: >-
       Real-time tracking, clear performance insights, and transparent
