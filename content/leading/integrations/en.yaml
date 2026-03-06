@@ -1,4 +1,4 @@
-sectionTitle: Integrate everything your f irm runs on
+sectionTitle: Integrate everything your firm runs on
 sectionTitleHighlight: Integrate
 sectionSubtitle: Bring all your payments, platforms, and tools together in one connected holistic ecosystem..
 tabs:
@@ -7,98 +7,142 @@ tabs:
     images:
       - image: /images/leading/integrate/integrate1.png
         backgroundColor: '#FFF'
+        full: false
       - image: /images/leading/integrate/integrate2.png
         backgroundColor: '#FFF'
+        full: false
       - image: /images/leading/integrate/integrate3.png
         backgroundColor: '#FFF'
+        full: false
       - image: /images/leading/integrate/integrate4.png
         backgroundColor: '#0D122C'
+        full: false
       - image: /images/leading/integrate/integrate5.png
         backgroundColor: '#00566C'
+        full: false
       - image: /images/leading/integrate/integrate6.png
         backgroundColor: '#FFF'
+        full: false
       - image: /images/leading/integrate/integrate7.png
         backgroundColor: '#FFF'
+        full: false
       - image: /images/leading/integrate/integrate8.png
         backgroundColor: '#FFF'
+        full: false
       - image: /images/leading/integrate/integrate9.png
         backgroundColor: '#000000'
+        full: false
       - image: /images/leading/integrate/integrate10.png
         backgroundColor: '#000000'
+        full: false
       - image: /images/leading/integrate/integrate11.png
         backgroundColor: '#FFF'
-  - label: Trading Platforms
-    contentTitle: Connect with fast, reliable, and industry-leading trading platforms.
+        full: false
+  - label: Payments
+    contentTitle: One control layer for every transaction, from checkout to payout.
     images:
-      - image: /images/leading/integrate/integrate1.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate2.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate3.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate4.png
-        backgroundColor: '#0D122C'
-      - image: /images/leading/integrate/integrate5.png
-        backgroundColor: '#00566C'
-      - image: /images/leading/integrate/integrate6.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate7.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate8.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate9.png
-        backgroundColor: '#000000'
-      - image: /images/leading/integrate/integrate10.png
-        backgroundColor: '#000000'
-      - image: /images/leading/integrate/integrate11.png
-        backgroundColor: '#FFF'
+      - image: /images/leading/integrate/integrate12.png
+        backgroundColor: '#F2F2F2'
+        full: false
+      - image: /images/leading/integrate/integrate13.png
+        backgroundColor: '#6772E5'
+        full: false
+      - image: /images/leading/integrate/integrate14.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate15.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate16.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate17.png
+        backgroundColor: '#FFFFFF'
+        full: true
+      - image: /images/leading/integrate/integrate18.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate19.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate20.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate21.png
+        backgroundColor: '#FFFFFF'
+        full: false
   - label: Customer Support
-    contentTitle: Connect with fast, reliable, and industry-leading trading platforms.
+    contentTitle: Support built around the trader lifecycle, with full account context.
     images:
-      - image: /images/leading/integrate/integrate1.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate2.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate3.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate4.png
-        backgroundColor: '#0D122C'
-      - image: /images/leading/integrate/integrate5.png
-        backgroundColor: '#00566C'
-      - image: /images/leading/integrate/integrate6.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate7.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate8.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate9.png
-        backgroundColor: '#000000'
-      - image: /images/leading/integrate/integrate10.png
-        backgroundColor: '#000000'
-      - image: /images/leading/integrate/integrate11.png
-        backgroundColor: '#FFF'
-  - label: Customer Support
-    contentTitle: Connect with fast, reliable, and industry-leading trading platforms.
+      - image: /images/leading/integrate/integrate22.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate23.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate24.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate25.png
+        backgroundColor: '#0075F1'
+        full: false
+      - image: /images/leading/integrate/integrate26.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate27.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate28.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate29.png
+        backgroundColor: '#FFFFFF'
+        full: false
+  - label: Compliance
+    contentTitle: Compliance embedded into your architecture, not bolted on later.
     images:
-      - image: /images/leading/integrate/integrate1.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate2.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate3.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate4.png
-        backgroundColor: '#0D122C'
-      - image: /images/leading/integrate/integrate5.png
-        backgroundColor: '#00566C'
-      - image: /images/leading/integrate/integrate6.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate7.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate8.png
-        backgroundColor: '#FFF'
-      - image: /images/leading/integrate/integrate9.png
-        backgroundColor: '#000000'
-      - image: /images/leading/integrate/integrate10.png
-        backgroundColor: '#000000'
-      - image: /images/leading/integrate/integrate11.png
-        backgroundColor: '#FFF'
+      - image: /images/leading/integrate/integrate30.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate31.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate32.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate33.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate34.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate35.png
+        backgroundColor: '#3540F4'
+        full: false
+  - label: Marketing
+    contentTitle: Marketing powered by real trading revenue and lifecycle data.
+    images:
+      - image: /images/leading/integrate/integrate36.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate37.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate38.png
+        backgroundColor: '#014CFF'
+        full: false
+      - image: /images/leading/integrate/integrate39.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate40.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate41.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate42.png
+        backgroundColor: '#FFFFFF'
+        full: false
+      - image: /images/leading/integrate/integrate43.png
+        backgroundColor: '#FEE101'
+        full: false
