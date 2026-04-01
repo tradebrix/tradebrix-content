@@ -14,7 +14,7 @@ rows:
     label1Image: /images/leading/traders-2.png
     label1ImageAlign: left
     label2Image: /images/leading/traders-3.png
-    label2ImageAlign: right
+    label2ImageAlign: left
     containerTitle: Clear Account Overview
     containerSubtitle: >-
       A simple dashboard that lets traders understand their status, rules, and
